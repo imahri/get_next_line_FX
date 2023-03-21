@@ -18,3 +18,8 @@ The function is written in C language and thus needs the  **`gcc`  compiler**  a
 ### For bonus
 
     gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line_bonus.c get_next_line_utils_bonus.c && ./a.out
+
+
+### Get_next_line (42cursus)
+-	Actual Status : finished
+-	Result : 125%
