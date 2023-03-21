@@ -5,6 +5,9 @@
 One of the goal of this project is to learn a highly interesting new concept in C programming: 
 	-	**static variables**, and to gain a deeper understanding of **allocations**, whether they happen on the stack memory or in the heap memory, the manipulation and the life cycle of a **buffer**, the unexpected complexity implied in the use of one or many static variables.
 	-	You will understand how files are opened, read and closed in an OS.
+### Function Prototype
+    
+    int	get_next_line(int fd, char **line);
 ## 🛠️  Usage
 ### Requirements  
 The function is written in C language and thus needs the  **`gcc`  compiler**  and some standard  **C libraries**  to run.
