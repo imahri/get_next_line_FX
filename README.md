@@ -7,7 +7,7 @@ One of the goal of this project is to learn a highly interesting new concept in 
 	-	You will understand how files are opened, read and closed in an OS.
 ### Function Prototype
     
-    char *get_next_line(int fd);
+    char   *get_next_line(int fd);
 ## 🛠️  Usage
 ### Requirements  
 The function is written in C language and thus needs the  **`gcc`  compiler**  and some standard  **C libraries**  to run.
