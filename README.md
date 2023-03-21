@@ -8,7 +8,7 @@ One of the goal of this project is to learn a highly interesting new concept in 
 ### Function Prototype
     
     char   *get_next_line(int fd);
-## 🛠️  Usage
+## 🛠️  Executing
 ### Requirements  
 The function is written in C language and thus needs the  **`gcc`  compiler**  and some standard  **C libraries**  to run.
 
